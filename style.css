@@ -200,11 +200,8 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(https://cdn.dribbble.com/users/44708/screenshots/2694410/media/c662e0e5b5f930b3df5aabb73ab30c57.gif);
+	background-image: url(./img/hero-bg1.png);
 	background-size: cover;
-	background-color: #000;
-	min-height: 100vh;
-	background-repeat: no-repeat;
 	background-position: top center;
 	position: relative;
 	z-index: 1;
